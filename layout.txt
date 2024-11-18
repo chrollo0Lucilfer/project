@@ -1,0 +1,7 @@
+create a local repo
+
+config karo
+
+git init    for initialising
+
+git clone url    for bringing everything from the remote repo
